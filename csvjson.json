@@ -1,0 +1,3257 @@
+[
+  {
+    "COURSE CURRICULUM": "Fundamentals Of IT Support",
+    "MODULES": "Program Introduction",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What Does IT Mean?",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What Is The Role Of An IT Support Specialist?",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "A Breif History Of Computers",
+    "AVERAGE DURATION": "11 minutes",
+    "DURATION IN MINS": "0:11:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "How Modern Computing Is Building The World",
+    "AVERAGE DURATION": "6 minutes",
+    "DURATION IN MINS": "0:06:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Introduction To Computer Language",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Character Encoding",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "How to Count in Binary",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Abstraction",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Computer Architecture Overview",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Introduction to Computer Hardware",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "CPU",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "RAM",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Motherboards",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Storage",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Power Supplies",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Peripherals",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Putting It All Together",
+    "AVERAGE DURATION": "21 minutes",
+    "DURATION IN MINS": "0:21:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Components of an Operating System",
+    "AVERAGE DURATION": "6 minutes",
+    "DURATION IN MINS": "0:06:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Files and File Systems",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Process Management",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Memory Management",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "I/O Management",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Interacting with the OS",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Logs",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "The Boot Process",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Choosing an Operating System",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Virtual Machines",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Installing Windows",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Installing Linux",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What is Chrome OS?",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Installing Mac OS X",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Understanding Basics of Networking",
+    "AVERAGE DURATION": "7 minutes",
+    "DURATION IN MINS": "0:07:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Networking Hardware",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Language of the Internet",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "The World Wide Web",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "History of the Internet",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Limitations of the Internet",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Internet of Things",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Privacy and Security",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "IT Support Communication",
+    "MODULES": "Introduction To Effective Communication Strategies",
+    "AVERAGE DURATION": "8 minutes",
+    "DURATION IN MINS": "0:08:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Who do Support Agents Communicate With?",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Interpret the Customer's Message",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Communicating at the Customer's Level of Expertise",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Using ACCRUE Vocabulary when Responding to Messages",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Challenging Customer Types",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Satisfying a Challenging Customer",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Develop A Rapport With Your Customers",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Interpret And Paraphrase The Customer’s Message",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Demonstrate Empathy Towards Your Customer",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Defusing Anger",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Differentiate between implicit vs. explicit customer messages",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Understand How To Respond Effectively Through Phone, Email, Chat, And Social Media",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "Foundations Of Network Computing",
+    "MODULES": "The TCP/IP Five-Layer Network Model",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Why Networking",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Cables",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Hubs and Switches",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Routers",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Servers and Clients",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Being A Network Engineer",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Cabling and Duplexing",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Network Ports and Patch Panels",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Ethernet and MAC Addresses",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Unicast, Multicast, and Broadcast",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Dissecting an Ethernet Frame",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Network Layer",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "IP Addresses",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "IP Datagrams and Encapsulation",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "IP Address Classes",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Address Resolution Protocol",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Subnetting",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Subnet Masks",
+    "AVERAGE DURATION": "7 minutes",
+    "DURATION IN MINS": "0:07:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Basic Binary Math",
+    "AVERAGE DURATION": "7 minutes",
+    "DURATION IN MINS": "0:07:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Classless Inter-Domain Routing (CIDR)",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Basic Routing Concepts",
+    "AVERAGE DURATION": "8 minutes",
+    "DURATION IN MINS": "0:08:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Routing Tables",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Interior Gateway Protocols",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Exterior Gateway Protocols",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Non-Routable Address Space",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Transport Layer",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Dissection of a TCP Segment",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "TCP Control Flags and the Three-way Handshake",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "TCP Socket States",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Connection-oriented and Connectionless Protocols",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Firewalls",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "The Application Layer",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "The Application Layer and the OSI Model",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "All the Layers Working in Unison",
+    "AVERAGE DURATION": "11 minutes",
+    "DURATION IN MINS": "0:11:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Why do we need DNS?",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "The Many Steps of Name Resolution",
+    "AVERAGE DURATION": "8 minutes",
+    "DURATION IN MINS": "0:08:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "DNS and UDP",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Resource Record Types",
+    "AVERAGE DURATION": "8 minutes",
+    "DURATION IN MINS": "0:08:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Anatomy of a Domain Name",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "DNS Zones",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Overview of DHCP",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "DHCP in Action",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Basics of NAT",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "NAT and the Transport Layer",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "NAT, Non-Routable Address Space and the Limits of IPv4",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Virtual Private Networks",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Proxy Services",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "Operating Systems",
+    "MODULES": "List Directories in a GUI",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: List Directories in CLI",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: List Directories",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Changing Directories in the GUI",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Changing Directories in the CLI",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Changing Directories in Bash",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Make Directories in the GUI & CLI",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Make Directories in Bash",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Command History",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Command History",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Copying Files & Directories",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Copying Files and Directories",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Moving and Renaming Files, Directories",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Moving and Renaming Files, Directories",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Removing Files & Directories",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Removing Files & Directories",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Why OS is Important",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Display File Contents",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Display File Contents",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Modifying Text Files",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Modifying Text Files",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows Powershell",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Searching within Files",
+    "AVERAGE DURATION": "6 minutes",
+    "DURATION IN MINS": "0:06:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Searching within Directories",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Searching within Files",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Input, Output, and the Pipeline",
+    "AVERAGE DURATION": "7 minutes",
+    "DURATION IN MINS": "0:07:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: SetUID, SetGID, Sticky Bit",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Software Packages",
+    "AVERAGE DURATION": "6 minutes",
+    "DURATION IN MINS": "0:06:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Software Packages",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Archives",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Archives",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Package Dependencies",
+    "AVERAGE DURATION": "7 minutes",
+    "DURATION IN MINS": "0:07:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Package Dependencies",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Package Manager",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Package Manager Apt",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Underneath the Hood",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Underneath the Hood",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Devices and Drivers",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Devices and Drivers",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Window: Operating System Updates",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Operating System Updates",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Review of Filesystems",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Disk Anatomy",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Disk Partitioning and Formatting a Filesystem",
+    "AVERAGE DURATION": "6 minutes",
+    "DURATION IN MINS": "0:06:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Mounting and Unmounting a Filesystem",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Disk Partitioning and Formatting a Filesystem",
+    "AVERAGE DURATION": "6 minutes",
+    "DURATION IN MINS": "0:06:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Mounting and Unmounting a Filesystem",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Swap",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Swap",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Files",
+    "AVERAGE DURATION": "6 minutes",
+    "DURATION IN MINS": "0:06:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Files",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Disk Usage",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Disk Usage",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Filesystem Repair",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Filesystem Repair",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: View User and Group Information",
+    "AVERAGE DURATION": "6 minutes",
+    "DURATION IN MINS": "0:06:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: View User and Group Information using CLI",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Users, Superuser and Beyond",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Passwords",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Passwords",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Adding and Removing Users",
+    "AVERAGE DURATION": "6 minutes",
+    "DURATION IN MINS": "0:06:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Adding and Removing Users",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: File Permissions",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: File Permissions",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Modifying Permissions",
+    "AVERAGE DURATION": "7 minutes",
+    "DURATION IN MINS": "0:07:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Linux: Modifying Permissions",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Windows: Special Permissions",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "System Administration",
+    "MODULES": "What is Systems Administration?",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Understaning Servers",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Understanding Cloud",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Organizational Policies",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "IT Infrastructure Services",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "User and Hardware Provisioning",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Routine Maintenance",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Vendors",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Troubleshooting and Managing Issues",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Assessing Risk",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "The Role of IT Infrastructure Services in SysAdmin",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Types of IT Infrastructure Services",
+    "AVERAGE DURATION": "6 minutes",
+    "DURATION IN MINS": "0:06:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Server Operating Systems",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Virtualization",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Remote Access Revisited",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "File Transfer Protocol (FTP), Secure File Transfer Protocol (SFTP), and Trivial File Transfer Protocol (TFTP)",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Network Time Protocol (NTP)",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Domain Name System (DNS)",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "DNS for Web Servers",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "DNS for Internal Networks",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Dynamic Host Configuration Protocol (DHCP)",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Resolving a Hostname or Domain Name",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Managing Services in Linux",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Managing Services in Windows",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Configuring Services in Linux",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Configuring Services in Windows",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Configuring DNS",
+    "AVERAGE DURATION": "6 minutes",
+    "DURATION IN MINS": "0:06:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Configuring DHCP",
+    "AVERAGE DURATION": "7 minutes",
+    "DURATION IN MINS": "0:07:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Configuring Communication Services",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Configuring Email Services",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Configuring User Productivity Services",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Configuring Security Services",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What are file services?",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Network File Storage",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Configuring Print Services",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What is a database server?",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Cloud Concepts",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Typical Cloud Infrastructure Setup",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "When and How to Choose Cloud",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What is a directory server?",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Implementing Directory Services",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What is centralized management?",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What is Lightweight Directory Access Protocol (LDAP)?",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What is LDAP Authentication?",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What is Active Directory?",
+    "AVERAGE DURATION": "6 minutes",
+    "DURATION IN MINS": "0:06:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Managing Active Directory",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Managing Active Directory Users and Groups",
+    "AVERAGE DURATION": "11 minutes",
+    "DURATION IN MINS": "0:11:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Managing Active Directory User Passwords",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Joining an Active Directory Domain",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What is Group Policy?",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Group Policy Creation and Editing",
+    "AVERAGE DURATION": "13 minutes",
+    "DURATION IN MINS": "0:13:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Group Policy Inheritance and Precedence",
+    "AVERAGE DURATION": "8 minutes",
+    "DURATION IN MINS": "0:08:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Group Policy Troubleshooting",
+    "AVERAGE DURATION": "13 minutes",
+    "DURATION IN MINS": "0:13:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What is OpenLDAP?",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Managing OpenLDAP",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "IT Security",
+    "MODULES": "Essential Security Terms",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Malicious Software",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What are Malwares?",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Network Attacks",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Intro to Denial-of-Service",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Client-Side-Attacks",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Password Attacks",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Deceptive Attacks",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Symmetric Cryptography",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Symmetric Encryption Algorithms",
+    "AVERAGE DURATION": "9 minutes",
+    "DURATION IN MINS": "0:09:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Asymmetric Cryptography",
+    "AVERAGE DURATION": "7 minutes",
+    "DURATION IN MINS": "0:07:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Asymmetric Encryption Algorithms",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Hashing",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Hashing Algorithms",
+    "AVERAGE DURATION": "10 minutes",
+    "DURATION IN MINS": "0:10:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Public Key Infrastructure",
+    "AVERAGE DURATION": "9 minutes",
+    "DURATION IN MINS": "0:09:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Securing Network Traffic",
+    "AVERAGE DURATION": "6 minutes",
+    "DURATION IN MINS": "0:06:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Cryptographic Hardware",
+    "AVERAGE DURATION": "6 minutes",
+    "DURATION IN MINS": "0:06:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Multifactor Authentication",
+    "AVERAGE DURATION": "12 minutes",
+    "DURATION IN MINS": "0:12:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Certificates",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Lightweight Directory Access Protocol",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "RADIUS",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Kerberos",
+    "AVERAGE DURATION": "7 minutes",
+    "DURATION IN MINS": "0:07:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "TACACS+",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Single Sign-On",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Authorization and Access Control Methods",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Access Control",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Access Control List",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Tracking Usage and Access",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Network Hardware Hardening",
+    "AVERAGE DURATION": "9 minutes",
+    "DURATION IN MINS": "0:09:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Network Software Hardening",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "WEP Encryption and Why You Shouldn't Use It",
+    "AVERAGE DURATION": "8 minutes",
+    "DURATION IN MINS": "0:08:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Working around WEP, WPA/WPA2",
+    "AVERAGE DURATION": "14 minutes",
+    "DURATION IN MINS": "0:14:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Wireless Hardening",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Wireshark and tcpdump",
+    "AVERAGE DURATION": "6 minutes",
+    "DURATION IN MINS": "0:06:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "IT Service Management (ITSM)",
+    "MODULES": "Core Concepts of IT Service Management",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What Quality is and Why It is Important?",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Quality Policy",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Relationship Between IT Services and Quality",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Principles of Quality Management",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Quality Management System",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Objective of a Quality Management System",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Steps to Establish a Quality Management System",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What is Service?",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Factors Required to Provide an IT Service",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What is Process?",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Benefits of a Process based Approach",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Characteristics of a Process",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Service Management",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Benefits of IT Service Management",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Risks of IT Service Management",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Role of Tools Used Within IT Service Management",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "The Applications of the Plan-Do-Check-Act (PDCA) Cycle",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Core Concepts of Quality Frameworks",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What is ISO IEC20000?",
+    "AVERAGE DURATION": "10 minutes",
+    "DURATION IN MINS": "0:10:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Who Uses ISO IEC200000",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Purpose and Benefits of ISO IEC2000000",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Related Standards Overview",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What is ISO90000?",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What is ISO IEC270000?",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What is Six Sigma?",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "IT Infrastructure Library (ITIL)",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "ITIL Version2",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "ITIL 2011",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Mapping ISO20000Standard to the Service Lifecycle",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Mapping Deming Cycle to the Service Lifecycle",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What is (not) ITIL?",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Process Document Contents",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Microsoft Operations Framework(MOF)",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "MOF4. Framework",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Capability Maturity Model Integration (CMMI)",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "CMM CMMI Maturity Levels",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Capability Assessments",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Types of Capability Assessments",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What is ISO IEC15504?",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "What is COBIT?",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "COBIT Framework",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Company Specific Standards",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Complementary Frameworks Technologies",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "ITIL and ISO IEC200000",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "COBIT5",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "ISO9001 Quality Management Systems",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "ISO IEC27001",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "ISO IEC38500",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "New Technologies",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "How it All Fits",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Introduction to Management Systems",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Management System",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Roles and Responsibilities of Management",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Objective of a Service Management System (SMS)",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "General Management Responsibilities",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "General Governance Principles",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Importance of Documentation and Basic Requirements for Documentation",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Documentation Best Practices",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Requirements for Resource Management",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "The SMS",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Core Concepts of the Service Management System (SMS)",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Objective of Planning and Improving Service Management",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Continual Improvement Methodology for Service Management Processes",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "PDCA in Service Management",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Planning for Service Management",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Key Principles of Producing and Implementing a Service Management Plan",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Implementing Service Management",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Requirements for Monitoring Measuring Reviewing and Improving the Processes",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Comparison Characteristics of Assessments and Audits",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Management of Improvement",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Service Design and Transition",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Management Requirements for NewChanged Services",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Requirements for Planning NewChanged Services",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Requirements for Designing NewChanged Services",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Requirements for Transitioning NewChanged Services",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Service Delivery Processes and Their Relationships",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Service Level Management Purpose Objectives Scope",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Service Level Management Process Activities",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Service Level Management Terminology",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Service Level Management Key Terms",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Service Level Management Designing SLA Structures",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Service Level Management SLA Content",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Service Level Management Service Review",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Service Level Management Service Improvement Program(SIP)",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Service Level Management Interfaces",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Service Level Management Best Practices",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Service Reporting",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Service Reporting Interfaces",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "IT Service Continuity Management Purpose, Objectives, Scope",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "IT Service Continuity Management Key Terms",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "IT Service Continuity Management Lifecycle Activities",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Service Continuity Management Interfaces",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Service Continuity Management Best Practices",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Availability Management Process Purpose Objectives Scope",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Availability Management Key Terms",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Availability Management Interfaces",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Availability Management Best Practices",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Budgeting and Accounting for Services Purpose",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Budgeting and Accounting for Services Objectives",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Budgeting and Accounting for Services Scope",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Budgeting and Accounting for Services Activities",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Budgeting and Accounting for Services Benefits",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Budgeting and Accounting Interfaces0",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Budgeting and Accounting for Services Best Practices",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Capacity Management Purpose Objectives Scope",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Capacity Management A Balancing Act",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Capacity Management Process Activities",
+    "AVERAGE DURATION": "6 minutes",
+    "DURATION IN MINS": "0:06:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Capacity Management Sub Processes",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Capacity Management Capacity Plan",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Capacity Management Interfaces",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Capacity Management Best Practices",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Information Security Management Purpose Objectives Scope",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Information Security Management Key Terminology",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Information Security Management Security Framework",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Information Security Mgmt Information Security Management System(ISMS)",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Information Security Management Interfaces",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Information Security Management Best Practices",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Relationship Processes and Their Relationships",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Business Relationship Management Purpose",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Business Relationship Management Objectives",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Business Relationship Management Scope",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Business Relationship Activities",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Business Relationship Mgmt Role Business Relationship Manager",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Business Relationship Management Interfaces",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Supplier Management Purpose Objectives Scope",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Supplier Management Supplier and Contract Database",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Supplier Management Relationship with Service Level Management",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Supplier Management Supplier Categorisation",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Supplier Management Role",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Supplier Management Interfaces",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Supply Chain Relationships",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Resolution Processes and Their Relationship",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Incident Management",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Incident Management Purpose Objectives",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Incident Management Scope and Value to Business",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Incident Management Basic Concepts",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Incident Management Process Flow Activities",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Incident Management Process Interfaces",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Incident Management Best Practices",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Request Fulfillment Process Purpose Objectives",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Request Fulfillment Process Scope Basic Concepts",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Request Fulfillment Interfaces",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Problem Management Purpose Objectives",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Problem Management Scope and Value to Business",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Problem Management Basic Concepts",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Problem Management Process Flow Reactive Problem Management",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Problem Management Process Flow Interfaces with Other Processes",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Problem Management Best Practices",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Control Processes and Their Relationships",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Change Management Purpose Objectives",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Change Management Scope",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Change Management Change Types",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Change Management Remediation Planning",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Change Management Concepts",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Change Management Change Proposals",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Change Management Change Flow",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Change Management Roles in Change Management",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Change Management Change Advisory Board(CAB)",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Change Management 7 R of Change Management",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Change Management Change Metrics",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Change Management Key Challenges",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Change Management Interfaces",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Service Asset and Configuration Management Basic Concepts",
+    "AVERAGE DURATION": "8 minutes",
+    "DURATION IN MINS": "0:08:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Basic Concepts CMDB and DML",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Service Asset and Configuration Management Basic Concepts Logical Model",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Basic Concepts Relationship Between CMDB CMS and SKMS",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "SACM Relationship",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Configuration Management Best Practices and Practical Application",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Release and Deployment Management Purpose Objectives",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Release and Deployment Management Scope",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Release and Deployment Management Basic Concepts Release Policy",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Release and Deployment Management Release Unit and Release Package",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Release and Deployment Management Release Types",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Release and Deployment Approaches",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Four phases of Release and Deployment Mgmt",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Release and Deployment Management Relationship",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Release and Deployment Management Best Practices",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "Freshservice Admin Fundamentals",
+    "MODULES": "Configuring Channels",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "User Management",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Helpdesk Efficiency",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Configuring Asset Management",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Marketplace, Priority Matrix, and More!",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": ""
+  },
+  {
+    "COURSE CURRICULUM": "Freshservice Tutorials",
+    "MODULES": "Freshservice - A Quick Overview",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": "https://www.youtube.com/watch?v=Lnc3dmenJJY&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=2&t=0s"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Freshservice Demo",
+    "AVERAGE DURATION": "14 minutes",
+    "DURATION IN MINS": "0:14:00",
+    "LINKS": "https://www.youtube.com/watch?v=S0uRKKydZk0&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=2"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Incident Management in Freshservice",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": "https://www.youtube.com/watch?v=UcadKnHt2h8&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=3"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Problem Management in Freshservice",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": "https://www.youtube.com/watch?v=w9ow4ZM9YSc&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=4"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Change Management in Freshservice",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": "https://www.youtube.com/watch?v=Q4opUEL14S0&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=5"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Service Catalog in Freshservice",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": "https://www.youtube.com/watch?v=FN-H7oq22xw&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=6"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Asset Management in Freshservice",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": "https://www.youtube.com/watch?v=hhKE3p81Mqc&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=7"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Contract Management in Freshservice",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": "https://www.youtube.com/watch?v=XgCFaS6EHI0&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=8"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Project Management in Freshservice",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": "https://www.youtube.com/watch?v=FdBcrFdekBM&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=9"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Analytics in Freshservice",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": "https://www.youtube.com/watch?v=JLxxGfIe_v8&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=10"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Setting up your support email address in Freshservice",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": "https://www.youtube.com/watch?v=iWFnVLRze-o&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=11"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Adding Custom URL to your service desk",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": "https://www.youtube.com/watch?v=EzyKcSBHCDY&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=12"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Employee Onboarding in Freshservice",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": "https://www.youtube.com/watch?v=ZCwd44zbUxI&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=13"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Using Active Directory SSO for remote login in Freshservice",
+    "AVERAGE DURATION": "4 minutes",
+    "DURATION IN MINS": "0:04:00",
+    "LINKS": "https://www.youtube.com/watch?v=hFwcsi1XwZI&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=14"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "How to NOT let urgent tickets fall through the cracks using Freshservice",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": "https://www.youtube.com/watch?v=6m-bGwR3cNg&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=15"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "How to optimize Request Fulfilment using Freshservice",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": "https://www.youtube.com/watch?v=XRGLfWC1b-c&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=16"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Onboarding made easy with multiple Service Requests",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": "https://www.youtube.com/watch?v=qON_cZOD8Ok&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=17"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Freshservice - Box Integration",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": "https://www.youtube.com/watch?v=zH5WmQiWfFQ&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=18"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Freshservice - Pagerduty Integration",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": "https://www.youtube.com/watch?v=Q7hu0pXa_18&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=19"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Freshservice - Slack Integration",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": "https://www.youtube.com/watch?v=Dm5tdF1qjKU&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=20"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Using the Freshservice-Bomgar interation for remote support",
+    "AVERAGE DURATION": "5 minutes",
+    "DURATION IN MINS": "0:05:00",
+    "LINKS": "https://www.youtube.com/watch?v=xju-JJ3rP-A&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=21"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Using the Freshservice-AWS integration to better manage virtual assets",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": "https://www.youtube.com/watch?v=kjykESisifE&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=22"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Freshservice Change Lifecycle",
+    "AVERAGE DURATION": "3 minutes",
+    "DURATION IN MINS": "0:03:00",
+    "LINKS": "https://www.youtube.com/watch?v=lLlTBClkJCY&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=23"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Freshservice Dashboard",
+    "AVERAGE DURATION": "1 minutes",
+    "DURATION IN MINS": "0:01:00",
+    "LINKS": "https://www.youtube.com/watch?v=_dsQIsQwq6k&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=24"
+  },
+  {
+    "COURSE CURRICULUM": "",
+    "MODULES": "Freshservice Employee Onboarding",
+    "AVERAGE DURATION": "2 minutes",
+    "DURATION IN MINS": "0:02:00",
+    "LINKS": "https://www.youtube.com/watch?v=ARZONl0NOuE&list=PL_R2TKb71YyXo29CVEB5xAY98i1ipQds6&index=25"
+  }
+]
