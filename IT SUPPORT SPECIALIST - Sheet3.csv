@@ -1,0 +1,154 @@
+COURSE CURRICULUM,MODULES,AVERAGE DURATION,DURATION IN MINS
+IT Support Communication,Introduction To Effective Communication Strategies,8 minutes,0:08:00
+IT Support Communication,Who do Support Agents Communicate With?,3 minutes,0:03:00
+IT Support Communication,Interpret the Customer's Message,3 minutes,0:03:00
+IT Support Communication,Communicating at the Customer's Level of Expertise,4 minutes,0:04:00
+IT Support Communication,Using ACCRUE Vocabulary when Responding to Messages,5 minutes,0:05:00
+IT Support Communication,Challenging Customer Types,3 minutes,0:03:00
+IT Support Communication,Satisfying a Challenging Customer,3 minutes,0:03:00
+IT Support Communication,Develop A Rapport With Your Customers,5 minutes,0:05:00
+IT Support Communication,Interpret And Paraphrase The Customer’s Message,5 minutes,0:05:00
+IT Support Communication,Demonstrate Empathy Towards Your Customer,3 minutes,0:03:00
+IT Support Communication,Defusing Anger,3 minutes,0:03:00
+IT Support Communication,Differentiate between implicit vs. explicit customer messages,4 minutes,0:04:00
+IT Support Communication,"Understand How To Respond Effectively Through Phone, Email, Chat, And Social Media",5 minutes,0:05:00
+,,,
+Foundations Of Network Computing,The TCP/IP Five-Layer Network Model,5 minutes,0:05:00
+Foundations Of Network Computing,Why Networking,1 minutes,0:01:00
+Foundations Of Network Computing,Cables,4 minutes,0:04:00
+Foundations Of Network Computing,Hubs and Switches,2 minutes,0:02:00
+Foundations Of Network Computing,Routers,2 minutes,0:02:00
+Foundations Of Network Computing,Servers and Clients,2 minutes,0:02:00
+Foundations Of Network Computing,Being A Network Engineer,1 minutes,0:01:00
+Foundations Of Network Computing,Cabling and Duplexing,1 minutes,0:01:00
+Foundations Of Network Computing,Network Ports and Patch Panels,2 minutes,0:02:00
+Foundations Of Network Computing,Ethernet and MAC Addresses,5 minutes,0:05:00
+Foundations Of Network Computing,"Unicast, Multicast, and Broadcast",1 minutes,0:01:00
+Foundations Of Network Computing,Dissecting an Ethernet Frame,5 minutes,0:05:00
+Foundations Of Network Computing,Network Layer,1 minutes,0:01:00
+Foundations Of Network Computing,IP Addresses,2 minutes,0:02:00
+Foundations Of Network Computing,IP Datagrams and Encapsulation,5 minutes,0:05:00
+Foundations Of Network Computing,IP Address Classes,3 minutes,0:03:00
+Foundations Of Network Computing,Address Resolution Protocol,2 minutes,0:02:00
+Foundations Of Network Computing,Subnetting,2 minutes,0:02:00
+Foundations Of Network Computing,Subnet Masks,7 minutes,0:07:00
+Foundations Of Network Computing,Basic Binary Math,7 minutes,0:07:00
+Foundations Of Network Computing,Classless Inter-Domain Routing (CIDR),5 minutes,0:05:00
+Foundations Of Network Computing,Basic Routing Concepts,8 minutes,0:08:00
+Foundations Of Network Computing,Routing Tables,3 minutes,0:03:00
+Foundations Of Network Computing,Interior Gateway Protocols,5 minutes,0:05:00
+Foundations Of Network Computing,Exterior Gateway Protocols,3 minutes,0:03:00
+Foundations Of Network Computing,Non-Routable Address Space,3 minutes,0:03:00
+Foundations Of Network Computing,Transport Layer,3 minutes,0:03:00
+Foundations Of Network Computing,Dissection of a TCP Segment,5 minutes,0:05:00
+Foundations Of Network Computing,TCP Control Flags and the Three-way Handshake,5 minutes,0:05:00
+Foundations Of Network Computing,TCP Socket States,3 minutes,0:03:00
+Foundations Of Network Computing,Connection-oriented and Connectionless Protocols,4 minutes,0:04:00
+Foundations Of Network Computing,Firewalls,2 minutes,0:02:00
+Foundations Of Network Computing,The Application Layer,3 minutes,0:03:00
+Foundations Of Network Computing,The Application Layer and the OSI Model,2 minutes,0:02:00
+Foundations Of Network Computing,All the Layers Working in Unison,11 minutes,0:11:00
+Foundations Of Network Computing,Why do we need DNS?,4 minutes,0:04:00
+Foundations Of Network Computing,The Many Steps of Name Resolution,8 minutes,0:08:00
+Foundations Of Network Computing,DNS and UDP,5 minutes,0:05:00
+Foundations Of Network Computing,Resource Record Types,8 minutes,0:08:00
+Foundations Of Network Computing,Anatomy of a Domain Name,3 minutes,0:03:00
+Foundations Of Network Computing,DNS Zones,4 minutes,0:04:00
+Foundations Of Network Computing,Overview of DHCP,4 minutes,0:04:00
+Foundations Of Network Computing,DHCP in Action,5 minutes,0:05:00
+Foundations Of Network Computing,Basics of NAT,4 minutes,0:04:00
+Foundations Of Network Computing,NAT and the Transport Layer,4 minutes,0:04:00
+Foundations Of Network Computing,"NAT, Non-Routable Address Space and the Limits of IPv4",3 minutes,0:03:00
+Foundations Of Network Computing,Virtual Private Networks,4 minutes,0:04:00
+Foundations Of Network Computing,Proxy Services,4 minutes,0:04:00
+,,,
+System Administration,What is Systems Administration?,2 minutes,0:02:00
+System Administration,Understaning Servers,4 minutes,0:04:00
+System Administration,Understanding Cloud,4 minutes,0:04:00
+System Administration,Organizational Policies,2 minutes,0:02:00
+System Administration,IT Infrastructure Services,1 minutes,0:01:00
+System Administration,User and Hardware Provisioning,4 minutes,0:04:00
+System Administration,Routine Maintenance,1 minutes,0:01:00
+System Administration,Vendors,1 minutes,0:01:00
+System Administration,Troubleshooting and Managing Issues,3 minutes,0:03:00
+System Administration,Assessing Risk,2 minutes,0:02:00
+System Administration,The Role of IT Infrastructure Services in SysAdmin,1 minutes,0:01:00
+System Administration,Types of IT Infrastructure Services,6 minutes,0:06:00
+System Administration,Server Operating Systems,1 minutes,0:01:00
+System Administration,Virtualization,2 minutes,0:02:00
+System Administration,Remote Access Revisited,3 minutes,0:03:00
+System Administration,"File Transfer Protocol (FTP), Secure File Transfer Protocol (SFTP), and Trivial File Transfer Protocol (TFTP)",3 minutes,0:03:00
+System Administration,Network Time Protocol (NTP),2 minutes,0:02:00
+System Administration,Domain Name System (DNS),1 minutes,0:01:00
+System Administration,DNS for Web Servers,2 minutes,0:02:00
+System Administration,DNS for Internal Networks,3 minutes,0:03:00
+System Administration,Dynamic Host Configuration Protocol (DHCP),3 minutes,0:03:00
+System Administration,Resolving a Hostname or Domain Name,3 minutes,0:03:00
+System Administration,Managing Services in Linux,4 minutes,0:04:00
+System Administration,Managing Services in Windows,3 minutes,0:03:00
+System Administration,Configuring Services in Linux,4 minutes,0:04:00
+System Administration,Configuring Services in Windows,4 minutes,0:04:00
+System Administration,Configuring DNS,6 minutes,0:06:00
+System Administration,Configuring DHCP,7 minutes,0:07:00
+System Administration,Configuring Communication Services,2 minutes,0:02:00
+System Administration,Configuring Email Services,3 minutes,0:03:00
+System Administration,Configuring User Productivity Services,2 minutes,0:02:00
+System Administration,Configuring Security Services,3 minutes,0:03:00
+System Administration,What are file services?,1 minutes,0:01:00
+System Administration,Network File Storage,3 minutes,0:03:00
+System Administration,Configuring Print Services,3 minutes,0:03:00
+System Administration,What is a database server?,1 minutes,0:01:00
+System Administration,Cloud Concepts,3 minutes,0:03:00
+System Administration,Typical Cloud Infrastructure Setup,1 minutes,0:01:00
+System Administration,When and How to Choose Cloud,2 minutes,0:02:00
+System Administration,What is a directory server?,4 minutes,0:04:00
+System Administration,Implementing Directory Services,2 minutes,0:02:00
+System Administration,What is centralized management?,4 minutes,0:04:00
+System Administration,What is Lightweight Directory Access Protocol (LDAP)?,1 minutes,0:01:00
+System Administration,What is LDAP Authentication?,3 minutes,0:03:00
+System Administration,What is Active Directory?,6 minutes,0:06:00
+System Administration,Managing Active Directory,3 minutes,0:03:00
+System Administration,Managing Active Directory Users and Groups,11 minutes,0:11:00
+System Administration,Managing Active Directory User Passwords,4 minutes,0:04:00
+System Administration,Joining an Active Directory Domain,4 minutes,0:04:00
+System Administration,What is Group Policy?,4 minutes,0:04:00
+System Administration,Group Policy Creation and Editing,13 minutes,0:13:00
+System Administration,Group Policy Inheritance and Precedence,8 minutes,0:08:00
+System Administration,Group Policy Troubleshooting,13 minutes,0:13:00
+System Administration,What is OpenLDAP?,4 minutes,0:04:00
+System Administration,Managing OpenLDAP,3 minutes,0:03:00
+,,,
+IT Security,Essential Security Terms,4 minutes,0:04:00
+IT Security,Malicious Software,5 minutes,0:05:00
+IT Security,What are Malwares?,2 minutes,0:02:00
+IT Security,Network Attacks,3 minutes,0:03:00
+IT Security,Intro to Denial-of-Service,3 minutes,0:03:00
+IT Security,Client-Side-Attacks,2 minutes,0:02:00
+IT Security,Password Attacks,2 minutes,0:02:00
+IT Security,Deceptive Attacks,3 minutes,0:03:00
+IT Security,Symmetric Cryptography,5 minutes,0:05:00
+IT Security,Symmetric Encryption Algorithms,9 minutes,0:09:00
+IT Security,Asymmetric Cryptography,7 minutes,0:07:00
+IT Security,Asymmetric Encryption Algorithms,5 minutes,0:05:00
+IT Security,Hashing,3 minutes,0:03:00
+IT Security,Hashing Algorithms,10 minutes,0:10:00
+IT Security,Public Key Infrastructure,9 minutes,0:09:00
+IT Security,Securing Network Traffic,6 minutes,0:06:00
+IT Security,Cryptographic Hardware,6 minutes,0:06:00
+IT Security,Multifactor Authentication,12 minutes,0:12:00
+IT Security,Certificates,3 minutes,0:03:00
+IT Security,Lightweight Directory Access Protocol ,3 minutes,0:03:00
+IT Security,RADIUS,1 minutes,0:01:00
+IT Security,Kerberos,7 minutes,0:07:00
+IT Security,TACACS+,1 minutes,0:01:00
+IT Security,Single Sign-On,3 minutes,0:03:00
+IT Security,Authorization and Access Control Methods,1 minutes,0:01:00
+IT Security,Access Control,5 minutes,0:05:00
+IT Security,Access Control List,1 minutes,0:01:00
+IT Security,Tracking Usage and Access,3 minutes,0:03:00
+IT Security,Network Hardware Hardening,9 minutes,0:09:00
+IT Security,Network Software Hardening,5 minutes,0:05:00
+IT Security,WEP Encryption and Why You Shouldn't Use It,8 minutes,0:08:00
+IT Security,"Working around WEP, WPA/WPA2",14 minutes,0:14:00
+IT Security,Wireless Hardening,3 minutes,0:03:00
+IT Security,Wireshark and tcpdump,6 minutes,0:06:00
